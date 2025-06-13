@@ -1,6 +1,4 @@
-# pretrained-text-generation-models
-
-Exploring Transformers with Pretrained Text Generation Models
+# Exploring Transformers with Pretrained Text Generation Models
 
 **Introduction**
 
